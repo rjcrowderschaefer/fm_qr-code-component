@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: hsl(212, 45%, 89%)
    }
 
 html {
@@ -11,7 +10,6 @@ html {
 }
   
   .qr-container{
-    width: 100vw;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -43,7 +41,7 @@ html {
     color: hsl(218, 44%, 22%);
     font-family: Outfit;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 1.3rem;
     text-align: center;
     margin: 18px 18px 0px 18px;
   }
@@ -53,7 +51,7 @@ html {
     color: hsl(220, 15%, 55%);
     font-family: Outfit;
     font-weight: 400;
-    font-size: 14px;
+    font-size: .9rem;
     text-align: center;
     margin: 0px 30px 0px 30px;
   }
